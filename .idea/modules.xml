@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-demo.iml" filepath="$PROJECT_DIR$/redis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-demo-publisher/redis-demo-publisher.iml" filepath="$PROJECT_DIR$/redis-demo-publisher/redis-demo-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-demo-subscriber1/redis-demo-subscriber1.iml" filepath="$PROJECT_DIR$/redis-demo-subscriber1/redis-demo-subscriber1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-demo-subscriber2/redis-demo-subscriber2.iml" filepath="$PROJECT_DIR$/redis-demo-subscriber2/redis-demo-subscriber2.iml" />
+    </modules>
+  </component>
+</project>
